@@ -1,6 +1,6 @@
 # awesome-c
 
-A curated list of awesome C frameworks, libraries and software.
+Please find the curated list of awesome C frameworks, libraries and software.
 
 * [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 * [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
